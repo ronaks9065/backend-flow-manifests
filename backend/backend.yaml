@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ronak1907/backend-app:2653fc
+          image: ronak1907/backend-app:2050c3
           ports:
             - containerPort: 8080
 ---
